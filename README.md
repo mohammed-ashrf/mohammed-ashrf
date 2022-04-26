@@ -1,9 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Mohammed Younis</h1>
-<h3 align="center">A passionate Frontend Developer from Egypt</h3>
+<h3 align="center">Front End Web Developer | Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammed-ashrf&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-ashrf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammed-ashrf" alt="mohammed-ashrf" /></a> </p>
+- 💬 Ask me about **HTML,CSS,JavaScript, Angular**
 
 - 📫 How to reach me **greebile2002@gmail.com**
 
