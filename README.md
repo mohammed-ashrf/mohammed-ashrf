@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋, I'm Mohammed Younis</h1>
 <h3 align="center">Front End Web Developer | Angular</h3>
 
-- 🔭 I’m currently working on **Front-End projects: Angular**
+- 🔭 I’m currently working on **Front-End projects**
 
 - 💬 Ask me about **HTML,CSS,JavaScript, Angular**
 
