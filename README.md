@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Mohammed Younis</h1>
-<h3 align="center">Front End Web Developer | Angular</h3>
+<h3 align="center">Full-Stack Software Engineer | MEAN Stack | Rust</h3>
 
-- 🔭 I’m currently working on **Front-End projects**
+- 🔭 I’m currently working on **Full-Stack projects**
 
 - 💬 Ask me about **HTML,CSS,JavaScript, Angular**
 
-- 📫 How to reach me **greebile2002@gmail.com**
+- 📫 How to reach me **mohammedyounis.fse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
