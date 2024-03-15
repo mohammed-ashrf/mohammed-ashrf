@@ -77,15 +77,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
 </p>
-
-<p color="#000000">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-ashrf&show_icons=true&locale=en&layout=compact" alt="mohammed-ashrf" />
-</p>
-<br>
-<p color="#000000">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mohammed-ashrf&show_icons=true&locale=en" alt="mohammed-ashrf" /></p>
-<br>
-
-<p color="#000000">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-ashrf&" alt="mohammed-ashrf" />
-</p>
-
