@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Mohammed Younis</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Developer ( MEAN Stack ) | Rust | Professional Googler</h3>
+<h3 align="center">Software Engineer | Full-Stack Web and Desktop Developer</h3>
 
 - 🔭 I’m currently working on **Full-Stack projects**
 
