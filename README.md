@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full-Stack projects**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular, Node.js & Express.js, MongoDB, Linux & Bash, and Rust**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Angular,React, Node.js & Express.js,Python,FastAPI,Flask,MongoDB,SQL,Postgresql, Linux & Bash, and Rust**
 
 - 📫 How to reach me **mohammedyounis.fse@gmail.com**
 
