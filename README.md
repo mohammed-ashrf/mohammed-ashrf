@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohammedyounis.fse@gmail.com**
 
-- 🌐 Check out my website: [mohammedyounis.engineer](https://mohammedyounis.engineer)
+- 🌐 Check out my website: [mohammedyounis.net](https://mohammedyounis.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
